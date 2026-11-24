@@ -17,27 +17,27 @@
 
 ## Research & Publications
 
-- **First Author — SIMC 2026 (Springer Scopus)**  
+- **First Author — SIMC 2026 (Springer Scopus)** · [Certificate](./certificates/SIMC_2026_Springer_Scopus.pdf)  
   *"A Multimodal Multi-Task Deep Learning Framework for Grid-Based Flood Prediction Using Remote Sensing and Meteorological Data"*  
   Duong Dong Le, Khai Hoang Ngo, Thanh Dzoan — *First International Conference on Semantic Intelligence in Massive Computing (SIMC 2026), Ho Chi Minh City, Vietnam, Nov 2026.*
-- **EXACT 2026 (IEEE IJCNN / WCCI 2026)**  
+- **EXACT 2026 (IEEE IJCNN / WCCI 2026)** · [Certificate](./certificates/EXACT_2026_IEEE_IJCNN.pdf)  
   Participant — *2nd International XAI Challenge for Transparent Educational Question-Answering* (URA Research Group, HCMUT & University of Naples Parthenope).
 
 ---
 
 ## Honors & Awards
 
-| Year | Achievement |
-| :---: | :--- |
-| **2026** | **First Author, SIMC 2026** (Springer Scopus Indexed) |
-| **2026** | **Faculty-Level Student Scientific Research Award (2025–2026)** — Faculty of IT, Ton Duc Thang University |
-| **2026** | **EXACT 2026 XAI Challenge** — Certificate of Participation (IEEE IJCNN / WCCI 2026) |
-| **2025** | **First Prize** — Vietnam Student Olympiad in Informatics (OLP Chuyên Tin) |
-| **2024–2025** | **Honorable Mention** — ICPC Vietnam National Programming Contest (Team `TDTU_HHD`) |
-| **2024–2026** | **2× Academic Encouragement Scholarship** (High Distinction, AY 2024–2025 & Sem 1 AY 2025–2026) · Year 1 GPA **8.9/10**, Conduct **100/100** — Ton Duc Thang University |
-| **2024–2025** | **100% Full-Tuition Freshman Entrance Scholarship** — Ton Duc Thang University |
-| **2023–2024** | **Vietnam National Informatics Olympiad Team (HSG Quốc gia THPT)**, Bac Lieu Province · **2× Second Prize** Provincial Informatics Olympiad (2023, 2024) |
-| **2023** | **First Prize** — Bac Lieu Youth Informatics Contest · **Consolation Prize** — National Youth Informatics Contest Regional Round (Group C1) |
+| Year | Achievement | Proof |
+| :---: | :--- | :--- |
+| **2026** | **First Author, SIMC 2026** (Springer Scopus Indexed) | [Certificate](./certificates/SIMC_2026_Springer_Scopus.pdf) |
+| **2026** | **Faculty-Level Student Scientific Research Award (2025–2026)** — Faculty of IT, Ton Duc Thang University | [Certificate](./certificates/NCKHSV_2025_2026_TDTU.jpg) |
+| **2026** | **EXACT 2026 XAI Challenge** — Certificate of Participation (IEEE IJCNN / WCCI 2026) | [Certificate](./certificates/EXACT_2026_IEEE_IJCNN.pdf) |
+| **2025** | **First Prize** — Vietnam Student Olympiad in Informatics (OLP Chuyên Tin) | [Certificate](./certificates/OLP_2025_First_Prize.jpg) |
+| **2024–2025** | **Honorable Mention** — ICPC Vietnam National Programming Contest (Team `TDTU_HHD`) | [Certificate](./certificates/ICPC_Vietnam_National_Honorable.pdf) |
+| **2024–2026** | **2× Academic Encouragement Scholarship** (High Distinction, AY 2024–2025 & Sem 1 AY 2025–2026) · Year 1 GPA **8.9/10**, Conduct **100/100** — Ton Duc Thang University | — |
+| **2024–2025** | **100% Full-Tuition Freshman Entrance Scholarship** — Ton Duc Thang University | — |
+| **2023–2024** | **Vietnam National Informatics Olympiad Team (HSG Quốc gia THPT)**, Bac Lieu Province · **2× Second Prize** Provincial Informatics Olympiad (2023, 2024) | [National Team](./certificates/HSG_QuocGia_Team_2024.jpg) · [Grade 12](./certificates/HSG_Tinh_12_2023.jpg) · [Grade 11](./certificates/HSG_Tinh_11_2023.jpg) |
+| **2023** | **First Prize** — Bac Lieu Youth Informatics Contest · **Consolation Prize** — National Youth Informatics Contest Regional Round (Group C1) | [Provincial](./certificates/TinHocTre_BacLieu_2023.jpg) · [Regional C1](./certificates/TinHocTre_Regional_C1_2023.jpg) |
 
 ---
 
