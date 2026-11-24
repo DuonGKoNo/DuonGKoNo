@@ -9,9 +9,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-DuonGKoNo-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/DuonGKoNo)
 [![VNOJ](https://img.shields.io/badge/VNOJ-Le__Dong__Duong%20(1540)-2D3748?style=flat-square)](https://oj.vnoi.info/user/Le_Dong_Duong)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ledongduong-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/ledongduong)
-<!-- Uncomment and replace slug when LinkedIn is ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Le%20Dong%20Duong-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-duongkono-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duongkono/)
 
 ---
 
